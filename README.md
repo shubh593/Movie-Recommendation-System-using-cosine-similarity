@@ -77,15 +77,9 @@ def recommend(movie):
 
 ### 📊 Results Example
 
-**Input Movie:** `The Avengers`
-
-**Top 5 Recommendations:**
-
-1. Avengers: Age of Ultron
-2. Iron Man 3
-3. Captain America: Civil War
-4. Captain America: The First Avenger
-5. Thor: The Dark World
+Recommendations for 'Avatar' :
+The Matrix
+Pulp Fiction
 
 ---
 
